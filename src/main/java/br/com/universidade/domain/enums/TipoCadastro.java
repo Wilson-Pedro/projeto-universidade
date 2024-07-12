@@ -6,4 +6,5 @@ public enum TipoCadastro {
     PROFESSOR,
     FUNCIONARIO
 
+
 }
